@@ -57,3 +57,25 @@ The project includes automated and browser-level tests for:
 ```bash
 npm install
 npm run dev
+
+Build:
+npm run build
+
+Tests:
+npm test
+
+Roadmap
+- Better full-body dance animations
+- More character animations
+- More interactive activities
+- Improved visual polish
+- More physical-device testing
+About
+This project is part of my software development portfolio and has been an opportunity to work with real-time 3D graphics, game development, touch input, performance optimization, automated testing and AI-assisted development.
+Disclaimer
+This is a personal, non-commercial fan project created for educational and portfolio purposes.
+It is not affiliated with or endorsed by the owners of the entertainment properties that inspired it.
+Copyrighted music is not distributed with the public repository.
+Author
+Marlon Porres
+Systems Engineering Student
