@@ -1,0 +1,89 @@
+[
+  {
+    "character": "CHAR_RUMI",
+    "deformation": [
+      {
+        "joint": "C_Head",
+        "maxVertexMovement": 0.12716847641249474
+      },
+      {
+        "joint": "L_Shoulder",
+        "maxVertexMovement": 0.030753412450480765
+      },
+      {
+        "joint": "L_UpperArm",
+        "maxVertexMovement": 0.02338913637403504
+      },
+      {
+        "joint": "C_Hips",
+        "maxVertexMovement": 0.22953336326017165
+      },
+      {
+        "joint": "L_UpperLeg",
+        "maxVertexMovement": 0.21957390674539648
+      },
+      {
+        "joint": "L_LowerLeg",
+        "maxVertexMovement": 0.13276352432985844
+      }
+    ]
+  },
+  {
+    "character": "CHAR_MIRA",
+    "deformation": [
+      {
+        "joint": "C_Head",
+        "maxVertexMovement": 0.22166655623410422
+      },
+      {
+        "joint": "L_Shoulder",
+        "maxVertexMovement": 0.024653365360980006
+      },
+      {
+        "joint": "L_UpperArm",
+        "maxVertexMovement": 0.020357127758373457
+      },
+      {
+        "joint": "C_Hips",
+        "maxVertexMovement": 0.22953337340382288
+      },
+      {
+        "joint": "L_UpperLeg",
+        "maxVertexMovement": 0.21957390091333484
+      },
+      {
+        "joint": "L_LowerLeg",
+        "maxVertexMovement": 0.13276351068368905
+      }
+    ]
+  },
+  {
+    "character": "CHAR_ZOEY",
+    "deformation": [
+      {
+        "joint": "C_Head",
+        "maxVertexMovement": 0.06634756542944775
+      },
+      {
+        "joint": "L_Shoulder",
+        "maxVertexMovement": 0.024653465391537486
+      },
+      {
+        "joint": "L_UpperArm",
+        "maxVertexMovement": 0.020357015261549854
+      },
+      {
+        "joint": "C_Hips",
+        "maxVertexMovement": 0.22953336021707618
+      },
+      {
+        "joint": "L_UpperLeg",
+        "maxVertexMovement": 0.2195738929605233
+      },
+      {
+        "joint": "L_LowerLeg",
+        "maxVertexMovement": 0.13276349643467536
+      }
+    ]
+  }
+]

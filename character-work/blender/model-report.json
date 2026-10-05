@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Rumi",
+    "height": 2.0,
+    "sourceHeight": 1.6148240627330779,
+    "triangles": 53724,
+    "meshes": [
+      {
+        "name": "Face",
+        "vertices": 3989,
+        "morphs": 58
+      },
+      {
+        "name": "Body",
+        "vertices": 11260,
+        "morphs": 0
+      },
+      {
+        "name": "Hair",
+        "vertices": 22899,
+        "morphs": 0
+      }
+    ],
+    "rigs": [
+      {
+        "name": "Armature",
+        "bones": 118
+      }
+    ]
+  },
+  {
+    "name": "Mira",
+    "height": 2.0,
+    "sourceHeight": 1.6148240268908154,
+    "triangles": 39680,
+    "meshes": [
+      {
+        "name": "Hair.001",
+        "vertices": 14837,
+        "morphs": 0
+      },
+      {
+        "name": "Body.001",
+        "vertices": 8290,
+        "morphs": 0
+      },
+      {
+        "name": "Face.001",
+        "vertices": 3989,
+        "morphs": 58
+      }
+    ],
+    "rigs": [
+      {
+        "name": "Armature.001",
+        "bones": 115
+      }
+    ]
+  },
+  {
+    "name": "Zoey",
+    "height": 2.0,
+    "sourceHeight": 1.6474134699982557,
+    "triangles": 37697,
+    "meshes": [
+      {
+        "name": "Body.002",
+        "vertices": 8710,
+        "morphs": 0
+      },
+      {
+        "name": "Hair.002",
+        "vertices": 13126,
+        "morphs": 0
+      },
+      {
+        "name": "Face.002",
+        "vertices": 3989,
+        "morphs": 58
+      }
+    ],
+    "rigs": [
+      {
+        "name": "Armature.002",
+        "bones": 101
+      }
+    ]
+  }
+]

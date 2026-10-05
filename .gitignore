@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Local checkpoints
+.checkpoints/
+
+# Local QA artifacts
+.qa/
+
+# Logs
+*.log
+npm-debug.log*
+# Local copyrighted music
+public/audio/songs/*.mp3
